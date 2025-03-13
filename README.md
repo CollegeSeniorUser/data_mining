@@ -3,7 +3,7 @@
 - Please check docker_setup folder for docker file to set up docker environment
   
 - Project1: Data Exploration Yelp Data(123MB) using SparkRDD
-- Project2: Mining frequent itemsets using Apriori Algorithm
+- Project2: Mining store frequent bought itemsets using Apriori Algorithm
 - Project3a: Locality Sensitive Hashing
 - Project3b: Build item/user/hybrid recommendation system
 - Project4:
